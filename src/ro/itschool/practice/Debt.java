@@ -1,3 +1,5 @@
+package ro.itschool.practice;
+
 public class Debt {
 
     public static void main(String[] args) {

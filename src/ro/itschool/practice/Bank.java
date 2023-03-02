@@ -1,3 +1,5 @@
+package ro.itschool.practice;
+
 public class Bank {
 
     public double getAccountBalance(){
