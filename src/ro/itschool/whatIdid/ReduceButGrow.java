@@ -2,11 +2,17 @@ package ro.itschool.whatIdid;
 
 public class ReduceButGrow {
     public static int grow(int[] x){
-        int[] arr = {1, 2, 3, 4  };
 
+        int product = 1;
+        for (int arr : x) {
+            product *= arr;
+        }
+
+        return product;
 
     }
-
-        return 0;
-
 }
+
+
+
+

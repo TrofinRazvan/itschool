@@ -2,14 +2,28 @@ package ro.itschool.whatIdid;
 
 public class Iulian {
     public static void main(String[] args) {
-        int[] arr = new int[]{4, 2, 5, 8, 5, 6};
+        int[] arr = new int[]{4, 2, 5, 8, 5, 6, 9};
         int max = arr[0];
-        for (int index = 0; index < 5; index++) {
-            if (arr[index] > max) ;
-            max = arr[5];
+        for (int index = 0; index < arr.length; index++) {
+            if (arr[index] > max) {
+                max = arr[index];
+                System.out.println("Am gasit un element mai mare la pozitia " + index + " cu valoarea= " + arr[index]);
+            }
+            System.out.println(max);
         }
+
     }
 }
+
+
+
+
+
+
+
+
+
+
 
 
 
