@@ -5,9 +5,12 @@ public class getGrade {
         System.out.println(Grade(85,78,98));
     }
    public static char Grade(int s1, int s2, int s3) {
-       s1=(s1+s2+s3)/3;
-       return (s1 >= 90) ? 'A':(s1 >= 80) ? 'B':(s1 >= 70) ? 'C':(s1 >= 60) ? 'D':'F';
+       int avarage = 0;
+       avarage=(s1+s2+s3)/3;
+       return avarage >= 90 ? 'A':avarage >= 80 ? 'B':avarage >= 70 ? 'C':avarage >= 60 ? 'D':'F';
+
    }
+
 
 
 }
