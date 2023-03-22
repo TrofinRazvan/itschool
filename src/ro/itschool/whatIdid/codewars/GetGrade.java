@@ -1,6 +1,6 @@
 package ro.itschool.whatIdid.codewars;
 
-public class getGrade {
+public class GetGrade {
     public static void main(String[] args) {
         System.out.println(Grade(85,78,98));
     }
@@ -10,7 +10,5 @@ public class getGrade {
        return avarage >= 90 ? 'A':avarage >= 80 ? 'B':avarage >= 70 ? 'C':avarage >= 60 ? 'D':'F';
 
    }
-
-
 
 }

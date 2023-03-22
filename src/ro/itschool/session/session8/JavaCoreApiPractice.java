@@ -15,7 +15,7 @@ public class JavaCoreApiPractice {
 //        System.out.println(animal1.replace("h","b").toUpperCase().trim().substring(2,3));
 //        System.out.println(animal1.replace("horse","cal").toUpperCase().trim().substring(1,2));
 //
-//        System.out.println(animal1.charAt(0));
+        System.out.println(animal1.charAt(0));
 //        System.out.println(animal1.substring(0,3));
 //        System.out.println(animal1.toUpperCase());
 //        System.out.println(animal1.toLowerCase());
