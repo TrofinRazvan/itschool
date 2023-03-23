@@ -15,7 +15,7 @@ public class PracticeWithParametersList {
         integerList.add(20);
 
         printListOfString(humanNameList);
-        genericMethod(10, 23, 54);
+//       genericMethod(10, 23, 54);
     }
 
     public static void genericMethod1(int a, int b, int c) {

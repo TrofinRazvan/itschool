@@ -1,4 +1,4 @@
-package ro.itschool.practice.store;
+package ro.itschool.practice.mobprogramming;
 
 
 public class Client {

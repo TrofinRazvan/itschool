@@ -14,7 +14,7 @@ public class PracticeOperators {
         int horsepower = 250;
         int result = horsepower < 100 ? horsepower - 10 : horsepower +10;
         // ? - daca valoarea este "true", atunci mai aduci cu 10...
-        // : - si
+        // : - sau
         System.out.println(result);
         String raceResult = horsepower < 100 ? "start race" : "stop race";
         System.out.println(raceResult);

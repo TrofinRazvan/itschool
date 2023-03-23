@@ -1,8 +1,8 @@
 package ro.itschool.whatIdid;
 
-public class Iulian {
+public class ArrayMax {
     public static void main(String[] args) {
-        int[] arr = new int[]{4, 2, 5, 8, 5, 6, 9};
+        int[] arr = {4, 2, 5, 8, 5, 6, 9};
         int max = arr[0];
         for (int index = 0; index < arr.length; index++) {
             if (arr[index] > max) {
@@ -14,21 +14,6 @@ public class Iulian {
 
     }
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 //        int maxInt = 0;
 //
 //        int index = -1;
