@@ -1,4 +1,4 @@
-package ro.itschool.practice;
+package ro.itschool.practice.alexbank;
 
 public class Debt {
 

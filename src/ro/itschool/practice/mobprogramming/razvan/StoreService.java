@@ -1,4 +1,4 @@
-package ro.itschool.practice.mobprogramming;
+package ro.itschool.practice.mobprogramming.razvan;
 
 public class StoreService {
 

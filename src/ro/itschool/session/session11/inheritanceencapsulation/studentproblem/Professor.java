@@ -1,6 +1,6 @@
 package ro.itschool.session.session11.inheritanceencapsulation.studentproblem;
 
-public class Profesor extends User {
+public class Professor extends User {
 
     String degree;
 
