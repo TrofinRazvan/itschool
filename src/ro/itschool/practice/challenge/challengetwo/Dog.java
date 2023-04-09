@@ -3,7 +3,10 @@ package ro.itschool.practice.challenge.challengetwo;
 public class Dog extends Animal {
 
 
-    public void dog() {
+    void sound() {
         System.out.println("bark");
+    }
+    void eat() {
+        System.out.println("eating beef");
     }
 }

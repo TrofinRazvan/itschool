@@ -12,9 +12,16 @@
 //    }
 //
 //    public static void main(String[] args) {
-//        createObj();
+//        createObject();
 //        createList();
 //        System.out.println(amount);
 //        System.out.println(isAvailable);
+//    }
+//
+//    public static void createObject() {
+//        JavaBasics javaBasicsObj = null;
+//        int anotherValue = 0; //please pay attention to the variable scope
+//        boolean isComparisonTrue = 5 < 3;
+//
 //    }
 //}

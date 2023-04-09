@@ -4,14 +4,19 @@ class TestAnimal extends Animal {
 
 
     public static void main(String[] args) {
-        Animal soundDog = new Animal();
-        System.out.println(soundDog);
-        Animal soundCat = new Animal();
-        System.out.println(soundCat);
-        Animal soundWolf = new Animal();
-        System.out.println(soundWolf);
-
-
+        Dog Dog = new Dog();
+        Dog.sound();
+        Dog.eat();
+        Cat Cat = new Cat();
+        Cat.sound();
+        Cat.eat();
+        Wolf Wolf = new Wolf();
+        Wolf.sound();
+        Cat.eat();
+        TestAnimal Animal = new TestAnimal();
+        Animal.sound();
+        Animal.eat();
+        Animal.age();
     }
 
 }
