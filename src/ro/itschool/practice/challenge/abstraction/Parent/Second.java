@@ -1,4 +1,4 @@
-package ro.itschool.practice.challenge.Parent;
+package ro.itschool.practice.challenge.abstraction.Parent;
 
 class Second extends Parent {
 

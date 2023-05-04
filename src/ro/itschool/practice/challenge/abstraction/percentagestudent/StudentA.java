@@ -1,4 +1,4 @@
-package ro.itschool.practice.challenge.percentagestudent;
+package ro.itschool.practice.challenge.abstraction.percentagestudent;
 
 public class StudentA extends Marks {
 

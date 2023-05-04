@@ -8,9 +8,20 @@ public class UniversityApplication {
         Professor professor2 = new Professor("Gica","Hagi","M",54,"23.07.1969","151568651","Duetului");
 
         Course mathCourse = new Course();
-        mathCourse.setDescription("math Course Description");
+        mathCourse.setSchedule("2");
         mathCourse.setDuration("2");
+        mathCourse.setDescription("math Course Description");
+        mathCourse.setSpecialization("math");
         mathCourse.setProfessor(professor1);
+
+        Course scienceCourse = new Course();
+        scienceCourse.setSchedule("2");
+        scienceCourse.setDuration("3");
+        scienceCourse.setDescription("Science course.");
+        scienceCourse.setSpecialization("science");
+        scienceCourse.setProfessor(professor2);
+
+        System.out.println("math: " + scienceCourse.getSchedule() + mathCourse.getSchedule() + mathCourse.getSpecialization() + mathCourse.getDescription());
 
 
     }
