@@ -1,0 +1,16 @@
+
+a
+java:S1192"FDefine a constant instead of duplicating this literal "Marin" 3 times.(ÿÄÑèşÿÿÿÿ
+R
+java:S4973	"<Strings and Boxed types should be compared using "equals()".(ÅÖ¾í
+W
+java:S4973
+"<Strings and Boxed types should be compared using "equals()".(óä¦åûÿÿÿÿ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ˆú‚ëùÿÿÿÿ
+6
+java:S2129" Remove this "String" constructor(ü¢‡¶
+N	java:S106	"9Replace this use of System.out or System.err by a logger.(ÅÖ¾í
+S	java:S106
+"9Replace this use of System.out or System.err by a logger.(óä¦åûÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ıù
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ÿ©Øâ
