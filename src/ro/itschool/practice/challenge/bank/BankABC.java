@@ -1,6 +1,7 @@
 package ro.itschool.practice.challenge.bank;
 
 public class BankABC {
+
     public static void main(String[] args) {
         BankA bankA = new BankA();
         bankA.getBalance();

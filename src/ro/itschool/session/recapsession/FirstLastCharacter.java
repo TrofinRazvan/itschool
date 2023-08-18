@@ -13,5 +13,4 @@ public class FirstLastCharacter {
         char lastLetter = value.charAt(value.length() - 1);
         System.out.println(firstLetter + " " + lastLetter);
     }
-
 }

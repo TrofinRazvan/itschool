@@ -8,7 +8,6 @@ public class JavaLoopsPractice {
         calculateSumOfNumbers(5);
     }
 
-
     public static void printNumbers() {
         for (int index = 0; index <= 10; index++) {
             System.out.println(index + "\n");
@@ -34,5 +33,4 @@ public class JavaLoopsPractice {
         System.out.println(" = ");
         System.out.println(sum);
     }
-
 }

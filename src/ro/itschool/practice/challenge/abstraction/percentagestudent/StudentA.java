@@ -8,6 +8,4 @@ public class StudentA extends Marks {
         int S3 = 90;
         System.out.println((S1+S2+S3)/3);
     }
-
-
 }

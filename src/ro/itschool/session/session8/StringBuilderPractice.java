@@ -13,5 +13,15 @@ public class StringBuilderPractice {
         String country = "Romania";
         StringBuilder reverseSb = new StringBuilder();
         reverseSb.append(country);
+        reverseSb.reverse();
+
+        String stringName = "";
+        StringBuilder sbName = new StringBuilder();
+        for (int index = 0; index < 5; index++) {
+            stringName += "a";
+            sbName.append("a");
+        }
+        System.out.println(stringName);
+        System.out.println(sbName);
     }
 }

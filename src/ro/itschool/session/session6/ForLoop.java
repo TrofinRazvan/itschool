@@ -21,10 +21,10 @@ public class ForLoop {
             for (int x : classicArray) {
 
             }
-//                System.out.println("array value from index " + index + " is " + classicArray[index]);
+            System.out.println("array value from index " + index + " is " + classicArray[index]);
         }
         for (int arrayValue : classicArray) {
-//            System.out.println("Print from for-each loop: " + arrayValue);
+            System.out.println("Print from for-each loop: " + arrayValue);
         }
 
         List<String> anotherArrayList = new ArrayList<>();
@@ -35,7 +35,5 @@ public class ForLoop {
             anotherArrayList.add(listValue);
             System.out.println(listValue);
         }
-
     }
 }
-

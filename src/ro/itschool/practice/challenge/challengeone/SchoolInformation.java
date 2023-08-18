@@ -1,6 +1,7 @@
 package ro.itschool.practice.challenge.challengeone;
 
 public class SchoolInformation {
+
     private String firstName;
     private String lastName;
     private String sex;
@@ -18,6 +19,4 @@ public class SchoolInformation {
         this.CNP = CNP;
         this.address = address;
     }
-
-
 }

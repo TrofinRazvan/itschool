@@ -21,7 +21,6 @@ public class BookAddress {
     public String getFirstName() {
         return firstName;
     }
-
     public void setFirstName(String firstName) {
         this.firstName = firstName;
     }
@@ -29,7 +28,6 @@ public class BookAddress {
     public String getLastName() {
         return lastName;
     }
-
     public void setLastName(String lastName) {
         this.lastName = lastName;
     }
@@ -37,7 +35,6 @@ public class BookAddress {
     public String getphoneNumber() {
         return phoneNumber;
     }
-
     public void setPhoneNumber(String phoneNumber) {
         this.phoneNumber = phoneNumber;
     }
@@ -45,7 +42,6 @@ public class BookAddress {
     public String getEmailAddress() {
         return emailAddress;
     }
-
     public void setEmailAddress(String emailAddress) {
         this.emailAddress = emailAddress;
     }
@@ -53,7 +49,6 @@ public class BookAddress {
     public int getAge() {
         return age;
     }
-
     public void setAge(int age) {
         this.age = age;
     }

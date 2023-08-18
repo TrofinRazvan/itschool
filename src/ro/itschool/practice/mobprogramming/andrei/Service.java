@@ -14,6 +14,7 @@ public class Service {
     public void removeContact(BookAddress bookAddress) {
         contactList.remove(bookAddress);
     }
+
     public void viewAll() {
         System.out.println("print viewAll" + contactList);
     }
@@ -29,4 +30,4 @@ public class Service {
         System.out.println("Result found:" + result);
         return result;
     }
-    }
+}

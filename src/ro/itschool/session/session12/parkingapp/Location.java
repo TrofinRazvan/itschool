@@ -6,5 +6,4 @@ public class Location {
     int parkingSpaceNumber;
     int totalNormalParkingSpaces;
     int totalEvParkingSpaces;
-
 }

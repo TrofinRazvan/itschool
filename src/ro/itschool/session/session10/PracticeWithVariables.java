@@ -3,6 +3,7 @@ package ro.itschool.session.session10;
 import java.util.List;
 
 public class PracticeWithVariables {
+
     public static String colour = "red";
     String name = "Marius";
 
@@ -15,5 +16,4 @@ public class PracticeWithVariables {
             System.out.println(element);
         }
     }
-
 }

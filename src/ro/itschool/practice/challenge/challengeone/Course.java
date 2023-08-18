@@ -11,7 +11,6 @@ public class Course {
     public String getSchedule() {
         return schedule;
     }
-
     public void setSchedule(String schedule) {
         this.schedule = schedule;
     }
@@ -19,7 +18,6 @@ public class Course {
     public String getDuration() {
         return duration;
     }
-
     public void setDuration(String duration) {
         this.duration = duration;
     }
@@ -27,7 +25,6 @@ public class Course {
     public String getDescription() {
         return description;
     }
-
     public void setDescription(String description) {
         this.description = description;
     }
@@ -35,7 +32,6 @@ public class Course {
     public String getSpecialization() {
         return specialization;
     }
-
     public void setSpecialization(String specialization) {
         this.specialization = specialization;
     }
@@ -43,7 +39,6 @@ public class Course {
     public Professor getProfessor() {
         return professor;
     }
-
     public void setProfessor(Professor professor) {
         this.professor = professor;
     }

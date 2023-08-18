@@ -4,7 +4,7 @@ public class JavaStringPractice {
 
     public static void main(String[] args) {
 
-        System.out.println(getCharOccurences("Hello, World!",'l'));
+        System.out.println(getCharOccurences("Hello, World!", 'l'));
 //        String name = "   George  ";
 //        String nameTrimmed = name.trim();
 //        System.out.println(nameTrimmed);
@@ -12,7 +12,6 @@ public class JavaStringPractice {
 //        StringBuilder sb = new StringBuilder();
 //        sb.append("  George  ");
 //        sb.append(" and Maria ");
-
 
 //        System.out.println(getStringUpperCase("Hello   "));
     }
@@ -26,7 +25,7 @@ public class JavaStringPractice {
     }
 
     private static int getCharOccurences(String input, char character) {
-        char[] chars = input.toCharArray(); //asta inseamna sa iterezi fiecare array
+        char[] chars = input.toCharArray();
         int occurences = 0;
         for (int index = 0; index < chars.length; index++) {
             if (chars[index] == character) {

@@ -28,8 +28,5 @@ public class JavaCoreApiPractice {
         System.out.println(animal3.contains("on"));
 
 //        System.out.println(animal3.replace("i",""));
-
-
     }
-
 }

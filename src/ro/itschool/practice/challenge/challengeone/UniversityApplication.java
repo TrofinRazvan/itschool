@@ -22,7 +22,5 @@ public class UniversityApplication {
         scienceCourse.setProfessor(professor2);
 
         System.out.println("math: " + scienceCourse.getSchedule() + mathCourse.getSchedule() + mathCourse.getSpecialization() + mathCourse.getDescription());
-
-
     }
 }

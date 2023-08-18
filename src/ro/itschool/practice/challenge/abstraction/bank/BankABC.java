@@ -1,6 +1,7 @@
 package ro.itschool.practice.challenge.abstraction.bank;
 
 public class BankABC {
+
     public static void main(String[] args) {
         BankA bankA = new BankA();
         bankA.getBalance();
@@ -8,6 +9,5 @@ public class BankABC {
         bankB.getBalance();
         BankC bankC = new BankC();
         bankC.getBalance();
-
     }
 }

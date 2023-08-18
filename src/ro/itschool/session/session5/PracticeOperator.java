@@ -57,6 +57,4 @@ public class PracticeOperator {
             return a + b;
         }
     }
-
 }
-

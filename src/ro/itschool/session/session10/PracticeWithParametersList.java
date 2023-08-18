@@ -23,7 +23,6 @@ public class PracticeWithParametersList {
     }
 
     public void genericMethod2(String name1, String name2) {
-
     }
 
     public static void printListOfString(List<String> nameValue) {

@@ -16,9 +16,9 @@ public class PracticeWithMethod {
     public static void printSumNumbers(int a, int b) {
         System.out.println("This is the sum: " + (a + b));
     }
+
     public Human getNewHuman() {
         Human human = new Human();
         return human;
     }
-
 }

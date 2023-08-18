@@ -4,9 +4,9 @@ public class Dog extends Animal {
 
 
     void sound() {
-        System.out.println("bark");
+        System.out.println("Bark!");
     }
     void eat() {
-        System.out.println("eating beef");
+        System.out.println("Eating beef.");
     }
 }

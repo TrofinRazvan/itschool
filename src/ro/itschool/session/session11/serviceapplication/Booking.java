@@ -11,6 +11,4 @@ public class Booking {
     String paymentMethod;
     LocalDateTime receivedCar;
     Client client;
-
-
 }

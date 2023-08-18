@@ -1,14 +1,0 @@
-
-V
-java:S1854";Remove this useless assignment to local variable "animal2".(äš½Óüÿÿÿÿ
-G
-java:S1481",Remove this unused "animal2" local variable.(äš½Óüÿÿÿÿ
-N	java:S106"9Replace this use of System.out or System.err by a logger.(èÓœ»
-Q	java:S125
-"<This block of commented-out lines of code should be removed.(ÝÛÜ°
-Q	java:S125"<This block of commented-out lines of code should be removed.(¹ß‹ý
-S	java:S106"9Replace this use of System.out or System.err by a logger.(©î»Äøÿÿÿÿ
-V	java:S125"<This block of commented-out lines of code should be removed.(ÿ€Éýÿÿÿÿ
-Q	java:S125"<This block of commented-out lines of code should be removed.(ç¯¨
-Q	java:S125"<This block of commented-out lines of code should be removed.(ÏÓ
-Q	java:S125"<This block of commented-out lines of code should be removed.(®àîÚ

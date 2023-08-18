@@ -3,7 +3,7 @@ package ro.itschool.session.session5;
 public class ForConstruction {
     public static void main(String[] args) {
         int[] myArray = {1, 2, 3, 4};
-        //  0  1  2  3  4
+                     //  0  1  2  3  4
         String[] stringArray = {"dog", "cat", "horse"};
 //        print number of integers
 //        System.out.println(myArray.length);
@@ -16,8 +16,6 @@ public class ForConstruction {
         }
         for (int value : myArray) {
             System.out.println(value);
-//        }
-
 //      find pairs of numbers with sum = 10
 //      Big O notation = time and space complexity Ologn
             int[] testArray = {1, 2, 3, 8, 4, 7};

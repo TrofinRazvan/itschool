@@ -15,6 +15,7 @@ public class ThisPractice {
         this.age = age;
         this.height = height;
     }
+
     void getName() {
     }
     void getAge() {

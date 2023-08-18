@@ -6,5 +6,4 @@ public class EmailService {
     private String emailBody;
     private String attachedFile;
     private Client client;
-
 }

@@ -3,7 +3,6 @@ package ro.itschool.session.recapsession;
 public class LenghtOfTheString {
 
     public static void main(String[] args) {
-
         printStringLenght("Adrian");
     }
 

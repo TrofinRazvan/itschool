@@ -7,12 +7,9 @@ public class Fruits {
         private double priceApple;
         private double priceBananas;
 
-
-
     public int getApples() {
         return apples;
     }
-
     public void setApples(int apples) {
         this.apples = apples;
     }
@@ -20,7 +17,6 @@ public class Fruits {
     public int getBananas() {
         return bananas;
     }
-
     public void setBananas(int bananas) {
         this.bananas = bananas;
     }
@@ -28,7 +24,6 @@ public class Fruits {
     public double getPriceApple() {
         return priceApple;
     }
-
     public void setPriceApple(double priceApple) {
         this.priceApple = priceApple;
     }
@@ -36,7 +31,6 @@ public class Fruits {
     public double getPriceBananas() {
         return priceBananas;
     }
-
     public void setPriceBananas(double priceBananas) {
         this.priceBananas = priceBananas;
     }

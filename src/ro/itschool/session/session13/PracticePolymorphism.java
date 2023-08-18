@@ -1,6 +1,5 @@
 package ro.itschool.session.session13;
 
-
 public class PracticePolymorphism {
 
     public static void main(String[] args) {
@@ -11,6 +10,7 @@ public class PracticePolymorphism {
 }
 
 abstract class Animal {
+
     abstract void eat();
 
     void colour() {
@@ -19,12 +19,14 @@ abstract class Animal {
 }
 
 class Dog extends Animal {
+
     void eat() {
         System.out.println("dog eat");
     }
 }
 
 class Cat extends Animal {
+
     void eat() {
         System.out.println("cat eat");
     }

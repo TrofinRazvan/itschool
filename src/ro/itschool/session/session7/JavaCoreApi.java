@@ -20,11 +20,8 @@ public class JavaCoreApi {
 //        System.out.println("name1 vs name 2: " + (name1 == name2));
 //        System.out.println("name1 vs name 3: " + (name1 == name3));
 //        System.out.println("name1 vs name 3: " + (name1.equals(name3)));
-
 //        System.out.println("name1 hascode: " + Integer.toHexString(System.identityHashCode(name1)));
 //        System.out.println("name2 hascode: " + Integer.toHexString(System.identityHashCode(name2)));
 //        System.out.println("name3 hascode: " + Integer.toHexString(System.identityHashCode(name3)));
-
-
     }
 }

@@ -14,9 +14,9 @@ public class FlowControl {
         System.out.println(name1 == name1);
         System.out.println(name2 == name2);
         System.out.println(name1.equals(name2));
-
     }
 }
+
 class User {
     private String Name;
 

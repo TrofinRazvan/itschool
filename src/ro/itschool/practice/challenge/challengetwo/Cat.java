@@ -5,11 +5,11 @@ import java.util.Scanner;
 public class Cat extends Animal {
 
     void sound() {
-        System.out.println("meow");
+        System.out.println("Meow!");
     }
 
     void eat() {
-        System.out.println("eating beef");
+        System.out.println("Eating beef.");
     }
 
 

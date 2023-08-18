@@ -7,6 +7,5 @@ class Test {
         firstparent.message();
         Parent secondparent = new Second();
         secondparent.message();
-
     }
 }

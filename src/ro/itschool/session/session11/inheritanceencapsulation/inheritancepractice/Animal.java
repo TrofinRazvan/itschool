@@ -3,6 +3,7 @@ package ro.itschool.session.session11.inheritanceencapsulation.inheritancepracti
 public class Animal {
 
     String animalBreed;
+
     void getAnimalColour() {
     }
 

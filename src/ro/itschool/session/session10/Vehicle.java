@@ -28,7 +28,6 @@ public class Vehicle {
     private static String getBrand() {
         return brand;
     }
-
     private void setBrand(String brand) {
         this.brand = brand;
     }

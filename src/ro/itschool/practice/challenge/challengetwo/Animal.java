@@ -3,13 +3,13 @@ package ro.itschool.practice.challenge.challengetwo;
 class Animal {
 
     void sound() {
-        System.out.println("animal makes sounds");
+        System.out.println("Animal makes sounds.");
     }
     void eat(){
-        System.out.println("animal is eating");
+        System.out.println("Animal is eating.");
     }
     void age() {
-        System.out.println("animal age");
+        System.out.println("Animal age.");
     }
 
 }

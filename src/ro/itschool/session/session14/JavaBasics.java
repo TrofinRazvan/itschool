@@ -58,7 +58,6 @@ public class JavaBasics {
     public int getAge() {
         return age;
     }
-
     public void setAge(int age) {
         JavaBasics.age = age;
     }

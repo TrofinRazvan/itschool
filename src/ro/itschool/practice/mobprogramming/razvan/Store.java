@@ -9,7 +9,6 @@ public class Store {
     public String getName() {
         return name;
     }
-
     public void setName(String name) {
         this.name = name;
     }
@@ -17,7 +16,6 @@ public class Store {
     public int getOpenHour() {
         return openHour;
     }
-
     public void setOpenHour(int openHour) {
         this.openHour = openHour;
     }
@@ -25,7 +23,6 @@ public class Store {
     public int getCloseHour() {
         return closeHour;
     }
-
     public void setCloseHour(int closeHour) {
         this.closeHour = closeHour;
     }

@@ -1,6 +1,7 @@
 package ro.itschool.session.session10;
 
 public class Human {
+
     String height;
     String sex;
     String weight;
@@ -13,5 +14,4 @@ public class Human {
 
     void eatGrass() {
     }
-
 }

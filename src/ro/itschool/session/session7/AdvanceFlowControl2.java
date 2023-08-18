@@ -10,7 +10,6 @@ public class AdvanceFlowControl2 {
         for (int index = 0; index < cars.length; index++) {
 //            System.out.println(cars[index]);
         }
-
         //no index
         for (String car : cars) {
             System.out.println(car);

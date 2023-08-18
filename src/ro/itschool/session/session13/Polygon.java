@@ -1,6 +1,7 @@
 package ro.itschool.session.session13;
 
 public class Polygon {
+
     public void render() {
         System.out.println("Rendering polygon.");
     }
@@ -27,6 +28,7 @@ class Square extends Polygon {
 }
 
 class Circle extends Polygon {
+
     public void render() {
         System.out.println("Rendering circle.");
     }
