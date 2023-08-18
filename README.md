@@ -1,4 +1,4 @@
-# itschool
+# ITSchool
 
   This repository contains a collection of learning sessions I attended during the Java course organized by ITSchool. In addition to those sessions, you will also
 find small individual projects and solved exercises, which reflect my progress in learning the Java programming language. This resource not only serves as a place
