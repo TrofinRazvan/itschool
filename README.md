@@ -4,5 +4,5 @@
 find small individual projects and solved exercises which reflect my progress in learning the Java programming language. This resource not only serves as a place
 to learn and explore Java concepts, but also to observe the evolution of my programming skills.
 
-  I am open to any feedback or collaboration. If you have suggestions, improvements or new ideas, I encourage you
+  Contributions and suggestions are always welcome! I am open to any feedback or collaboration. If you have suggestions, improvements or new ideas, I encourage you
 to open an issue or submit a pull request.
