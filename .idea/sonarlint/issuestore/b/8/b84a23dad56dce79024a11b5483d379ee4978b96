@@ -1,6 +1,0 @@
-
-Y
-java:S1854"7Remove this useless assignment to local variable "obj".(§ùÿÿÿÿ8ÈœÛØŸ1
-J
-java:S1481"(Remove this unused "obj" local variable.(§ùÿÿÿÿ8ËœÛØŸ1
-Z	java:S106	"9Replace this use of System.out or System.err by a logger.(õÌƒœÿÿÿÿÿ8¶ÒÜØŸ1
